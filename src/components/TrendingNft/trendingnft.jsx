@@ -1,5 +1,5 @@
 import React from 'react'
-import "./trendingnft/css"
+import "./trendingnft.css"
 const TrandingNft = () => {
     return (
         <div>TrandingNft</div>
