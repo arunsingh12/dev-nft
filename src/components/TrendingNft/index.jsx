@@ -6,4 +6,4 @@ const TrandingNft = () => {
     )
 }
 
-export default TrandingNft
+export default TrandingNft  
