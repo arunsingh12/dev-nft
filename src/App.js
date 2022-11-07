@@ -9,7 +9,7 @@ import TrandingNft from './components/TrendingNft/trendingnft'
 
 const App = () => {
   return (
-    <div>
+    <div className='max-width'>
       <Header />
       <TopFold />
       <BrandsIntegrations />
