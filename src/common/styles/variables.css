@@ -5,5 +5,5 @@
     --text-gradient-1: linear-gradient(90deg, rgba(105, 234, 203, 1) 0%, rgba(234, 204, 248, 1) 35%, rgba(102, 84, 241, 1) 100%);
 
     --bg-block:rgba(143, 0, 255, 0.35);
-
+    --card-border:#282525;
 }

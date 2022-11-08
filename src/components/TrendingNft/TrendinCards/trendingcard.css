@@ -1,0 +1,18 @@
+.trending-card{
+    flex-direction: column;
+}
+
+.tc-inner-wrapper{
+    background: var(--text-gradient-1);
+    padding:2px;
+    border-radius: 18px;
+}
+.tc-content{
+    background-color: var(--background);
+    border-radius: 18px;
+    padding: 18px;
+}
+.tc-banner{
+    height: 300px;
+    border-radius: 18px;
+}

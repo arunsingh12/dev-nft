@@ -14,14 +14,14 @@ const settings = {
 
 const TrandingNft = () => {
     return (
-        <div className='trending-nfts absolute-center'>
-            <div className="tn-title">
+        <div className='trending-nfts '>
+            <div className="tn-title absolute-center">
                 <span className='heading-gradient'>TRENDING NFTs</span>
             </div>
             <div className="tn-bg-block"></div>
-            {/* <Slider {...settings}>
+            <Slider {...settings}>
                 {TRENDING_NFTS.map((_nft) => <Trendingcard />)}
-            </Slider> */}
+            </Slider>
         </div>
     )
 }
